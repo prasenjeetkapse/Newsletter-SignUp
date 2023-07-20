@@ -59,9 +59,3 @@ app.post("/failure", function(req,res){
  app.listen(process.env.PORT || 3000, function(req,res){
     console.log("Server is ready at port 3000");
  });
-
-// api id
-// f80392e6d84cfe77b6fe000a7426b1cd-us21   new
-//  ea3d93672b0d69fcc9f8a0d7fc6695b3-us21
-// audince id or list Id
-// 75044961ba.
